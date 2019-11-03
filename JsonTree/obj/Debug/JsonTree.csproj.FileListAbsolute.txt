@@ -1,0 +1,12 @@
+C:\Users\Licht\Desktop\JsonTree\JsonTree\bin\Debug\JsonTree.exe.config
+C:\Users\Licht\Desktop\JsonTree\JsonTree\bin\Debug\JsonTree.exe
+C:\Users\Licht\Desktop\JsonTree\JsonTree\bin\Debug\JsonTree.pdb
+C:\Users\Licht\Desktop\JsonTree\JsonTree\obj\Debug\JsonTree.csprojAssemblyReference.cache
+C:\Users\Licht\Desktop\JsonTree\JsonTree\obj\Debug\JsonTree.Properties.Resources.resources
+C:\Users\Licht\Desktop\JsonTree\JsonTree\obj\Debug\JsonTree.csproj.GenerateResource.cache
+C:\Users\Licht\Desktop\JsonTree\JsonTree\obj\Debug\JsonTree.exe
+C:\Users\Licht\Desktop\JsonTree\JsonTree\obj\Debug\JsonTree.pdb
+C:\Users\Licht\Desktop\JsonTree\JsonTree\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Licht\Desktop\JsonTree\JsonTree\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Licht\Desktop\JsonTree\JsonTree\obj\Debug\JsonTree.csproj.CopyComplete
+C:\Users\Licht\Desktop\JsonTree\JsonTree\obj\Debug\JsonTree.JSONTree.resources
